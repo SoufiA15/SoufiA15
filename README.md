@@ -23,7 +23,8 @@ Tenho interesse principalmente em **programação** e **cibersegurança**. 🔐
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite,flask,vscode">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="280px"  />
 
 </div>
 
@@ -63,6 +64,26 @@ Quando não estou programando, provavelmente estou:
 ## 📫 Entre em contato
 
 📧 **Email:** sophiabarbosarocha8@gmail.com
+---
+
+
+
+
+
+## 📊 GitHub Stats
+
+</div>
+
+<p align="center">
+ 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=transparent&hide_border=true" />
+</p>
+
+---
+
 
 ---
 
@@ -72,6 +93,9 @@ Quando não estou programando, provavelmente estou:
 
 <p align="center">
   <i>"Provavelmente tem algum Bug por aqui."</i> 🐍
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" />
+
+</div>
 </p>
 
 <!--
